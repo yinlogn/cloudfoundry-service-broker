@@ -20,7 +20,7 @@ public class CatalogConfig {
 		return new Catalog(Collections.singletonList(
 				new ServiceDefinition(
 						"mongodb-service-broker",
-						"Mongo DB",
+						"p-mongo",
 						"A simple MongoDB service broker implementation",
 						true,
 						false,
